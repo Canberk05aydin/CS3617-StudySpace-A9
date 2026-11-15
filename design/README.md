@@ -1,26 +1,19 @@
-# StudySpace room search designs
+# StudySpace design contributions
 
-These student-facing screens extend the administrator room-management flow.
-Administrators create rooms with a building, seating capacity, facilities and
-availability; students then use that information to find a suitable room.
+Store each group member's design work in a separate folder so ownership is
+clear and contributors can add or update files without filename conflicts.
 
-## Search by building and capacity
+## Contributors
 
-![Search rooms by building and capacity](search-rooms-by-building-capacity.png)
+- [Loizos — Student room search](loizos/README.md)
 
-Supports:
+Other group members can add their work using the same structure:
 
-- **U003** — Search for study rooms by building.
-- **U009** — Filter study rooms by seating capacity.
-- Optional filtering for wheelchair-accessible rooms.
-
-## Filtered room results
-
-![Filtered room results](filtered-room-results.png)
-
-The results retain the selected building and capacity filters and show matching
-rooms with their seating capacity, facilities and current availability.
-
-## Editable source
-
-[Open the Figma design](https://www.figma.com/design/9frw6VAeAqxYkmriDcqLry/StudySpace-Admin-%E2%80%93-Add-New-Study-Room?node-id=7-3&p=f)
+```text
+design/
+├── README.md
+├── loizos/
+└── another-member/
+    ├── README.md
+    └── design-files.png
+```
