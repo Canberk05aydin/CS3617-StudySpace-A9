@@ -11,4 +11,4 @@ The design allows students to view available and booked time slots, select a one
 
 **User Story:** U004 – View Room Availability Through a Timetable
 
-**Contribution:** UI/UX Design
+
