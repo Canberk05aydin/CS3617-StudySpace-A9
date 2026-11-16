@@ -6,7 +6,8 @@ The design allows students to view available and booked time slots, select a one
 
 ### Design Preview
 
-![Weekly Study Room Timetable](./U004-weekly-timetable-interface.png)
+<img width="1440" height="1160" alt="U004-Design a weekly timatable interface" src="https://github.com/user-attachments/assets/a23b9a8e-3906-4dd6-aa31-e37de4d9fe82" />
+
 
 **User Story:** U004 – View Room Availability Through a Timetable
 
